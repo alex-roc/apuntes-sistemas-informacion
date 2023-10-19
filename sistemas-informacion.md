@@ -29,6 +29,6 @@
   - Memoria (GB y MT/s)
   - Almacenamiento (GB y MB/s)
 - Red
-  - IPs
+  - IPs y puertos
   - Topología
   - Velocidad
